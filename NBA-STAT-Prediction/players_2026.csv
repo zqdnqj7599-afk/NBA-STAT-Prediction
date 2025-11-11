@@ -1,0 +1,526 @@
+Player_ID,PLAYER_NAME,TEAM_ID,TEAM_NAME,POSITION,HEIGHT,WEIGHT,AGE
+1631210,Jacob Toppin,1610612737,Atlanta Hawks,F,6-9,200,25.0
+1630552,Jalen Johnson,1610612737,Atlanta Hawks,F,6-8,219,23.0
+1630811,Keaton Wallace,1610612737,Atlanta Hawks,G,6-3,185,26.0
+1628379,Luke Kennard,1610612737,Atlanta Hawks,G,6-5,206,29.0
+1630700,Dyson Daniels,1610612737,Atlanta Hawks,G,6-7,199,22.0
+1629638,Nickeil Alexander-Walker,1610612737,Atlanta Hawks,G,6-5,205,27.0
+204001,Kristaps Porziņģis,1610612737,Atlanta Hawks,F-C,7-2,240,30.0
+1642258,Zaccharie Risacher,1610612737,Atlanta Hawks,F,6-8,200,20.0
+1629027,Trae Young,1610612737,Atlanta Hawks,G,6-2,164,27.0
+1642368,N'Faly Dante,1610612737,Atlanta Hawks,C,6-11,230,24.0
+1642854,Asa Newell,1610612737,Atlanta Hawks,F,6-10,220,20.0
+1630168,Onyeka Okongwu,1610612737,Atlanta Hawks,F-C,6-10,240,24.0
+1631243,Mouhamed Gueye,1610612737,Atlanta Hawks,F,6-11,210,23.0
+1642365,Nikola Đurišić,1610612737,Atlanta Hawks,G,6-8,214,21.0
+1630249,Vít Krejčí,1610612737,Atlanta Hawks,G,6-8,195,25.0
+1642947,Eli John Ndiaye,1610612737,Atlanta Hawks,F,6-8,209,21.0
+1631216,Caleb Houstan,1610612737,Atlanta Hawks,G,6-8,205,22.0
+1628369,Jayson Tatum,1610612738,Boston Celtics,F-G,6-8,210,27.0
+1629014,Anfernee Simons,1610612738,Boston Celtics,G,6-3,200,26.0
+1627759,Jaylen Brown,1610612738,Boston Celtics,G-F,6-6,223,29.0
+1631169,Josh Minott,1610612738,Boston Celtics,F,6-8,205,22.0
+1628401,Derrick White,1610612738,Boston Celtics,G,6-4,190,31.0
+1630202,Payton Pritchard,1610612738,Boston Celtics,G,6-1,195,27.0
+1631199,Ron Harper Jr.,1610612738,Boston Celtics,G-F,6-5,233,25.0
+1628449,Chris Boucher,1610612738,Boston Celtics,F,6-8,200,32.0
+1630214,Xavier Tillman,1610612738,Boston Celtics,F,6-8,245,26.0
+1641775,Jordan Walsh,1610612738,Boston Celtics,G,6-6,205,21.0
+1642864,Hugo González,1610612738,Boston Celtics,G,6-6,200,19.0
+1642917,Max Shulga,1610612738,Boston Celtics,G,6-4,210,23.0
+1630573,Sam Hauser,1610612738,Boston Celtics,F,6-7,217,27.0
+1630568,Luka Garza,1610612738,Boston Celtics,C,6-10,243,26.0
+1631248,Baylor Scheierman,1610612738,Boston Celtics,G,6-6,205,25.0
+1642873,Amari Williams,1610612738,Boston Celtics,F-C,6-11,250,23.0
+1629674,Neemias Queta,1610612738,Boston Celtics,C,7-0,248,26.0
+1629622,Max Strus,1610612739,Cleveland Cavaliers,G-F,6-5,215,29.0
+1628366,Lonzo Ball,1610612739,Cleveland Cavaliers,G,6-5,190,28.0
+1628418,Thomas Bryant,1610612739,Cleveland Cavaliers,C-F,6-9,248,28.0
+1630596,Evan Mobley,1610612739,Cleveland Cavaliers,C,6-11,215,24.0
+1630241,Sam Merrill,1610612739,Cleveland Cavaliers,G,6-4,205,29.0
+1641753,Chris Livingston,1610612739,Cleveland Cavaliers,F,6-6,220,22.0
+1641854,Craig Porter Jr.,1610612739,Cleveland Cavaliers,G,6-1,180,25.0
+1629636,Darius Garland,1610612739,Cleveland Cavaliers,G,6-1,192,25.0
+1629631,De'Andre Hunter,1610612739,Cleveland Cavaliers,F-G,6-7,221,27.0
+1642281,Jaylon Tyson,1610612739,Cleveland Cavaliers,G-F,6-6,215,22.0
+1626204,Larry Nance Jr.,1610612739,Cleveland Cavaliers,F-C,6-6,245,32.0
+1642878,Tyrese Proctor,1610612739,Cleveland Cavaliers,G,6-4,185,21.0
+1641772,Nae'Qwan Tomlin,1610612739,Cleveland Cavaliers,F,6-8,210,24.0
+1628386,Jarrett Allen,1610612739,Cleveland Cavaliers,C,6-9,243,27.0
+1629731,Dean Wade,1610612739,Cleveland Cavaliers,F-C,6-9,228,28.0
+1631247,Luke Travers,1610612739,Cleveland Cavaliers,F,6-6,207,24.0
+1628378,Donovan Mitchell,1610612739,Cleveland Cavaliers,G,6-2,215,29.0
+1642847,Jeremiah Fears,1610612740,New Orleans Pelicans,G,6-3,190,19.0
+1629627,Zion Williamson,1610612740,New Orleans Pelicans,F,6-6,284,25.0
+1630529,Herbert Jones,1610612740,New Orleans Pelicans,F,6-7,206,27.0
+1629673,Jordan Poole,1610612740,New Orleans Pelicans,G,6-4,194,26.0
+1630621,Hunter Dickinson,1610612740,New Orleans Pelicans,C,7-1,255,24.0
+1627749,Dejounte Murray,1610612740,New Orleans Pelicans,G,6-4,180,29.0
+201599,DeAndre Jordan,1610612740,New Orleans Pelicans,C,6-11,265,37.0
+1631121,Bryce McGowens,1610612740,New Orleans Pelicans,G,6-6,190,23.0
+1642877,Micah Peavy,1610612740,New Orleans Pelicans,G-F,6-7,215,24.0
+1630631,Jose Alvarado,1610612740,New Orleans Pelicans,G,6-0,179,27.0
+1631255,Karlo Matković,1610612740,New Orleans Pelicans,F-C,6-10,231,24.0
+1642274,Yves Missi,1610612740,New Orleans Pelicans,C,6-11,235,21.0
+1642852,Derik Queen,1610612740,New Orleans Pelicans,C,6-9,250,20.0
+1641725,Trey Alexander,1610612740,New Orleans Pelicans,G,6-5,185,22.0
+1641722,Jordan Hawkins,1610612740,New Orleans Pelicans,G,6-5,190,23.0
+1630530,Trey Murphy III,1610612740,New Orleans Pelicans,F,6-8,206,25.0
+1630180,Saddiq Bey,1610612740,New Orleans Pelicans,G-F,6-8,215,26.0
+1626172,Kevon Looney,1610612740,New Orleans Pelicans,F,6-9,222,29.0
+1629632,Coby White,1610612741,Chicago Bulls,G,6-4,195,25.0
+1641801,Emanuel Miller,1610612741,Chicago Bulls,F,6-5,215,25.0
+1630581,Josh Giddey,1610612741,Chicago Bulls,G,6-7,216,23.0
+1628975,Jevon Carter,1610612741,Chicago Bulls,G,6-0,200,30.0
+1631207,Dalen Terry,1610612741,Chicago Bulls,F,6-6,195,23.0
+1642280,Trentyn Flowers,1610612741,Chicago Bulls,F,6-9,185,20.0
+202696,Nikola Vučević,1610612741,Chicago Bulls,C,6-9,260,35.0
+1630245,Ayo Dosunmu,1610612741,Chicago Bulls,G,6-4,200,25.0
+1628380,Zach Collins,1610612741,Chicago Bulls,F-C,6-9,250,27.0
+1628989,Kevin Huerter,1610612741,Chicago Bulls,G-F,6-6,198,27.0
+1641824,Matas Buzelis,1610612741,Chicago Bulls,F,6-8,209,21.0
+1641763,Julian Phillips,1610612741,Chicago Bulls,F,6-6,198,22.0
+1642855,Noa Essengue,1610612741,Chicago Bulls,F,6-8,200,18.0
+1630188,Jalen Smith,1610612741,Chicago Bulls,F-C,6-8,215,25.0
+1630200,Tre Jones,1610612741,Chicago Bulls,G,6-1,185,25.0
+1630171,Isaac Okoro,1610612741,Chicago Bulls,F-G,6-4,225,24.0
+1630172,Patrick Williams,1610612741,Chicago Bulls,F,6-6,215,24.0
+1642950,Lachlan Olbrich,1610612741,Chicago Bulls,C,6-8,236,21.0
+203957,Danté Exum,1610612742,Dallas Mavericks,G,6-5,214,30.0
+1631108,Max Christie,1610612742,Dallas Mavericks,G,6-5,190,22.0
+1630702,Jaden Hardy,1610612742,Dallas Mavericks,G,6-3,198,23.0
+1641726,Dereck Lively II,1610612742,Dallas Mavericks,C,7-1,230,21.0
+203076,Anthony Davis,1610612742,Dallas Mavericks,F-C,6-10,253,32.0
+1626156,D'Angelo Russell,1610612742,Dallas Mavericks,G,6-3,193,29.0
+203939,Dwight Powell,1610612742,Dallas Mavericks,F-C,6-10,240,34.0
+1642948,Ryan Nembhard,1610612742,Dallas Mavericks,G,5-11,180,22.0
+1630314,Brandon Williams,1610612742,Dallas Mavericks,G,6-1,190,25.0
+202681,Kyrie Irving,1610612742,Dallas Mavericks,G,6-2,195,33.0
+1630230,Naji Marshall,1610612742,Dallas Mavericks,F,6-6,220,27.0
+1642939,Miles Kelly,1610612742,Dallas Mavericks,G,6-4,190,22.0
+1628997,Caleb Martin,1610612742,Dallas Mavericks,F,6-5,205,30.0
+1629655,Daniel Gafford,1610612742,Dallas Mavericks,F-C,6-10,265,27.0
+1629023,P.J. Washington,1610612742,Dallas Mavericks,F,6-7,230,27.0
+1630619,Moussa Cisse,1610612742,Dallas Mavericks,C,6-11,220,23.0
+202691,Klay Thompson,1610612742,Dallas Mavericks,G,6-5,220,35.0
+1642843,Cooper Flagg,1610612742,Dallas Mavericks,F,6-9,205,18.0
+1631128,Christian Braun,1610612743,Denver Nuggets,G,6-6,220,24.0
+1642938,Curtis Jones,1610612743,Denver Nuggets,G,6-3,195,24.0
+1631124,Julian Strawther,1610612743,Denver Nuggets,G,6-6,205,23.0
+1641816,Hunter Tyson,1610612743,Denver Nuggets,F,6-8,215,25.0
+1642926,Tamar Bates,1610612743,Denver Nuggets,G,6-4,195,22.0
+1631212,Peyton Watson,1610612743,Denver Nuggets,G,6-8,200,23.0
+203501,Tim Hardaway Jr.,1610612743,Denver Nuggets,G-F,6-5,205,33.0
+1628971,Bruce Brown,1610612743,Denver Nuggets,G-F,6-4,202,29.0
+1641747,DaRon Holmes II,1610612743,Denver Nuggets,F,6-9,225,23.0
+203999,Nikola Jokić,1610612743,Denver Nuggets,C,6-11,284,30.0
+202685,Jonas Valančiūnas,1610612743,Denver Nuggets,C,6-11,265,33.0
+1642461,Spencer Jones,1610612743,Denver Nuggets,F,6-7,225,24.0
+1630192,Zeke Nnaji,1610612743,Denver Nuggets,F-C,6-10,240,24.0
+1629661,Cameron Johnson,1610612743,Denver Nuggets,F,6-8,210,29.0
+1629618,Jalen Pickett,1610612743,Denver Nuggets,G,6-2,202,26.0
+1627750,Jamal Murray,1610612743,Denver Nuggets,G,6-4,215,28.0
+203932,Aaron Gordon,1610612743,Denver Nuggets,F,6-8,235,30.0
+1627780,Gary Payton II,1610612744,Golden State Warriors,G,6-2,195,32.0
+1630228,Jonathan Kuminga,1610612744,Golden State Warriors,F,6-7,225,23.0
+1641764,Brandin Podziemski,1610612744,Golden State Warriors,G,6-4,205,22.0
+1642954,Will Richard,1610612744,Golden State Warriors,G,6-3,206,22.0
+1630541,Moses Moody,1610612744,Golden State Warriors,G,6-5,211,23.0
+1627741,Buddy Hield,1610612744,Golden State Warriors,G,6-4,220,32.0
+1629001,De'Anthony Melton,1610612744,Golden State Warriors,G,6-2,200,27.0
+202710,Jimmy Butler III,1610612744,Golden State Warriors,F,6-6,230,36.0
+1630611,Gui Santos,1610612744,Golden State Warriors,F,6-7,185,23.0
+201143,Al Horford,1610612744,Golden State Warriors,C-F,6-8,240,39.0
+1642366,Quinten Post,1610612744,Golden State Warriors,C,7-0,238,25.0
+1642893,Alex Toohey,1610612744,Golden State Warriors,F,6-8,223,21.0
+203110,Draymond Green,1610612744,Golden State Warriors,F,6-6,230,35.0
+201939,Stephen Curry,1610612744,Golden State Warriors,G,6-2,185,37.0
+1631218,Trayce Jackson-Davis,1610612744,Golden State Warriors,F,6-9,245,25.0
+1642050,Jackson Rowe,1610612744,Golden State Warriors,F,6-6,210,28.0
+1630311,Pat Spencer,1610612744,Golden State Warriors,G,6-2,205,29.0
+1628988,Aaron Holiday,1610612745,Houston Rockets,G,6-0,185,29.0
+1630284,Kevon Harris,1610612745,Houston Rockets,G,6-5,216,28.0
+1641708,Amen Thompson,1610612745,Houston Rockets,G-F,6-7,200,22.0
+1627827,Dorian Finney-Smith,1610612745,Houston Rockets,F,6-7,220,32.0
+1631120,JD Davison,1610612745,Houston Rockets,G,6-1,195,23.0
+1627832,Fred VanVleet,1610612745,Houston Rockets,G,6-0,197,31.0
+201142,Kevin Durant,1610612745,Houston Rockets,F,6-11,240,37.0
+1630256,Jae'Sean Tate,1610612745,Houston Rockets,F,6-4,230,30.0
+1631095,Jabari Smith Jr.,1610612745,Houston Rockets,F,6-11,220,22.0
+203500,Steven Adams,1610612745,Houston Rockets,C,6-11,265,32.0
+1642263,Reed Sheppard,1610612745,Houston Rockets,G,6-2,185,21.0
+1631106,Tari Eason,1610612745,Houston Rockets,F,6-8,215,24.0
+1629006,Josh Okogie,1610612745,Houston Rockets,G,6-4,213,27.0
+1642384,Isaiah Crawford,1610612745,Houston Rockets,F,6-6,220,24.0
+1630578,Alperen Sengun,1610612745,Houston Rockets,C,6-11,243,23.0
+203991,Clint Capela,1610612745,Houston Rockets,C,6-10,256,31.0
+201145,Jeff Green,1610612745,Houston Rockets,F,6-8,235,39.0
+203078,Bradley Beal,1610612746,Los Angeles Clippers,G,6-4,207,32.0
+201935,James Harden,1610612746,Los Angeles Clippers,G,6-5,220,36.0
+202695,Kawhi Leonard,1610612746,Los Angeles Clippers,F,6-6,225,34.0
+101108,Chris Paul,1610612746,Los Angeles Clippers,G,6-0,175,40.0
+1642920,Kobe Sanders,1610612746,Los Angeles Clippers,G,6-8,207,23.0
+1627884,Derrick Jones Jr.,1610612746,Los Angeles Clippers,F,6-6,210,28.0
+1627739,Kris Dunn,1610612746,Los Angeles Clippers,G,6-3,205,31.0
+203992,Bogdan Bogdanović,1610612746,Los Angeles Clippers,G,6-5,225,33.0
+201572,Brook Lopez,1610612746,Los Angeles Clippers,C,7-1,282,37.0
+1642353,Cam Christie,1610612746,Los Angeles Clippers,G,6-5,190,20.0
+1642949,Yanic Konan Niederhäuser,1610612746,Los Angeles Clippers,C,6-11,242,22.0
+1643141,Jahmyl Telfort,1610612746,Los Angeles Clippers,G,6-7,,24.0
+1628381,John Collins,1610612746,Los Angeles Clippers,F-C,6-9,226,28.0
+1641757,Jordan Miller,1610612746,Los Angeles Clippers,G,6-5,194,25.0
+1641738,Kobe Brown,1610612746,Los Angeles Clippers,F,6-7,250,25.0
+201587,Nicolas Batum,1610612746,Los Angeles Clippers,G-F,6-7,230,36.0
+1627826,Ivica Zubac,1610612746,Los Angeles Clippers,C,7-0,240,28.0
+1642876,Adou Thiero,1610612747,Los Angeles Lakers,G,6-7,220,21.0
+1629020,Jarred Vanderbilt,1610612747,Los Angeles Lakers,F,6-8,214,26.0
+1642261,Dalton Knecht,1610612747,Los Angeles Lakers,F,6-6,215,24.0
+1629028,Deandre Ayton,1610612747,Los Angeles Lakers,C,7-0,252,27.0
+1629216,Gabe Vincent,1610612747,Los Angeles Lakers,G,6-2,200,29.0
+1642355,Bronny James,1610612747,Los Angeles Lakers,G,6-2,210,21.0
+1631132,Christian Koloko,1610612747,Los Angeles Lakers,C,6-11,225,25.0
+1629637,Jaxson Hayes,1610612747,Los Angeles Lakers,C-F,7-0,220,25.0
+1631222,Jake LaRavia,1610612747,Los Angeles Lakers,F,6-7,235,24.0
+1628467,Maxi Kleber,1610612747,Los Angeles Lakers,F,6-10,240,33.0
+1630559,Austin Reaves,1610612747,Los Angeles Lakers,G,6-5,197,27.0
+1641733,Nick Smith Jr.,1610612747,Los Angeles Lakers,G,6-2,185,21.0
+2544,LeBron James,1610612747,Los Angeles Lakers,F,6-9,250,40.0
+1629060,Rui Hachimura,1610612747,Los Angeles Lakers,F,6-8,230,27.0
+1643024,Chris Mañon,1610612747,Los Angeles Lakers,G,6-4,209,23.0
+203935,Marcus Smart,1610612747,Los Angeles Lakers,G,6-3,220,31.0
+1629029,Luka Dončić,1610612747,Los Angeles Lakers,F-G,6-8,230,26.0
+1642066,Myron Gardner,1610612748,Miami Heat,F,6-5,220,24.0
+1631323,Simone Fontecchio,1610612748,Miami Heat,F,6-7,209,29.0
+1626179,Terry Rozier,1610612748,Miami Heat,G,6-1,190,31.0
+1631107,Nikola Jović,1610612748,Miami Heat,F,6-10,205,22.0
+1642276,Kel'el Ware,1610612748,Miami Heat,C,7-0,230,21.0
+1641796,Pelle Larsson,1610612748,Miami Heat,G,6-5,215,24.0
+1642443,Jahmir Young,1610612748,Miami Heat,G,6-0,185,25.0
+1631170,Jaime Jaquez Jr.,1610612748,Miami Heat,G,6-6,225,24.0
+1630696,Dru Smith,1610612748,Miami Heat,G,6-2,203,27.0
+1628389,Bam Adebayo,1610612748,Miami Heat,C-F,6-9,255,28.0
+1629639,Tyler Herro,1610612748,Miami Heat,G,6-5,195,25.0
+1642352,Keshad Johnson,1610612748,Miami Heat,F,6-6,225,24.0
+203952,Andrew Wiggins,1610612748,Miami Heat,F,6-6,197,30.0
+1626181,Norman Powell,1610612748,Miami Heat,G,6-3,215,32.0
+1642857,Kasparas Jakučionis,1610612748,Miami Heat,G,6-5,200,19.0
+1630558,Davion Mitchell,1610612748,Miami Heat,G,6-0,202,27.0
+1642884,Vladislav Goldin,1610612748,Miami Heat,C,7-0,250,24.0
+1630828,Alex Antetokounmpo,1610612749,Milwaukee Bucks,F,6-8,214,24.0
+1630579,Jericho Sims,1610612749,Milwaukee Bucks,C,6-10,250,27.0
+1626167,Myles Turner,1610612749,Milwaukee Bucks,C-F,6-11,250,29.0
+1629018,Gary Trent Jr.,1610612749,Milwaukee Bucks,G,6-5,204,26.0
+1629645,Kevin Porter Jr.,1610612749,Milwaukee Bucks,G-F,6-5,203,25.0
+1626171,Bobby Portis,1610612749,Milwaukee Bucks,F,6-9,250,30.0
+203914,Gary Harris,1610612749,Milwaukee Bucks,G,6-4,210,31.0
+1627752,Taurean Prince,1610612749,Milwaukee Bucks,F,6-6,218,31.0
+1631157,Ryan Rollins,1610612749,Milwaukee Bucks,G,6-3,180,23.0
+1629599,Amir Coffey,1610612749,Milwaukee Bucks,G-F,6-7,210,28.0
+1628398,Kyle Kuzma,1610612749,Milwaukee Bucks,F,6-8,221,30.0
+1641813,Mark Sears,1610612749,Milwaukee Bucks,G,6-0,185,23.0
+1631260,AJ Green,1610612749,Milwaukee Bucks,G,6-4,190,26.0
+203507,Giannis Antetokounmpo,1610612749,Milwaukee Bucks,F,6-11,243,30.0
+1631250,Pete Nance,1610612749,Milwaukee Bucks,F,6-9,225,25.0
+203648,Thanasis Antetokounmpo,1610612749,Milwaukee Bucks,F,6-7,219,33.0
+1641748,Andre Jackson Jr.,1610612749,Milwaukee Bucks,G,6-6,209,23.0
+1630175,Cole Anthony,1610612749,Milwaukee Bucks,G,6-2,185,25.0
+1628978,Donte DiVincenzo,1610612750,Minnesota Timberwolves,G,6-4,203,28.0
+1630545,Terrence Shannon Jr.,1610612750,Minnesota Timberwolves,G-F,6-6,215,25.0
+1630183,Jaden McDaniels,1610612750,Minnesota Timberwolves,F,6-9,185,25.0
+1642265,Rob Dillingham,1610612750,Minnesota Timberwolves,G,6-2,175,20.0
+1630162,Anthony Edwards,1610612750,Minnesota Timberwolves,G,6-4,225,24.0
+204060,Joe Ingles,1610612750,Minnesota Timberwolves,F-G,6-8,220,38.0
+1630538,Bones Hyland,1610612750,Minnesota Timberwolves,G,6-2,169,25.0
+1630548,Johnny Juzang,1610612750,Minnesota Timberwolves,G,6-7,226,24.0
+201144,Mike Conley,1610612750,Minnesota Timberwolves,G,6-1,175,38.0
+1629675,Naz Reid,1610612750,Minnesota Timberwolves,C-F,6-9,264,26.0
+1642866,Joan Beringer,1610612750,Minnesota Timberwolves,F,6-11,230,19.0
+1641740,Jaylen Clark,1610612750,Minnesota Timberwolves,G,6-5,205,24.0
+1642402,Enrique Freeman,1610612750,Minnesota Timberwolves,F,6-9,220,25.0
+203497,Rudy Gobert,1610612750,Minnesota Timberwolves,C,7-1,258,33.0
+203944,Julius Randle,1610612750,Minnesota Timberwolves,F-C,6-9,250,30.0
+1631159,Leonard Miller,1610612750,Minnesota Timberwolves,F,6-10,220,21.0
+1642911,Rocco Zikarsky,1610612750,Minnesota Timberwolves,C,7-3,227,19.0
+1630533,Ziaire Williams,1610612751,Brooklyn Nets,F,6-9,185,24.0
+1642874,Danny Wolf,1610612751,Brooklyn Nets,F,6-11,250,21.0
+1642962,Drake Powell,1610612751,Brooklyn Nets,G-F,6-5,195,20.0
+1629312,Haywood Highsmith,1610612751,Brooklyn Nets,F,6-5,220,28.0
+1642856,Egor Dëmin,1610612751,Brooklyn Nets,G,6-8,200,19.0
+1630604,E.J. Liddell,1610612751,Brooklyn Nets,F,6-6,240,24.0
+1630623,Tyson Etienne,1610612751,Brooklyn Nets,G,6-0,200,26.0
+1631213,Tyrese Martin,1610612751,Brooklyn Nets,F,6-6,215,26.0
+1629611,Terance Mann,1610612751,Brooklyn Nets,G-F,6-6,215,29.0
+1629008,Michael Porter Jr.,1610612751,Brooklyn Nets,F,6-10,218,27.0
+1630549,Day'Ron Sharpe,1610612751,Brooklyn Nets,C,6-10,265,24.0
+1641730,Noah Clowney,1610612751,Brooklyn Nets,F-C,6-10,210,21.0
+1630592,Jalen Wilson,1610612751,Brooklyn Nets,F,6-6,220,25.0
+1630560,Cam Thomas,1610612751,Brooklyn Nets,G,6-3,210,24.0
+1629651,Nic Claxton,1610612751,Brooklyn Nets,C,6-11,215,26.0
+1642879,Ben Saraf,1610612751,Brooklyn Nets,G,6-6,200,19.0
+1642849,Nolan Traore,1610612751,Brooklyn Nets,G,6-3,185,19.0
+203903,Jordan Clarkson,1610612752,New York Knicks,G,6-5,194,33.0
+1630540,Miles McBride,1610612752,New York Knicks,G,6-2,195,25.0
+1628404,Josh Hart,1610612752,New York Knicks,G,6-5,215,30.0
+1642359,Pacôme Dadiet,1610612752,New York Knicks,F,6-9,210,20.0
+1628384,OG Anunoby,1610612752,New York Knicks,F-G,6-7,240,28.0
+1641755,Kevin McCullar Jr.,1610612752,New York Knicks,G,6-6,210,24.0
+1628973,Jalen Brunson,1610612752,New York Knicks,G,6-2,190,29.0
+1642278,Tyler Kolek,1610612752,New York Knicks,G,6-2,195,24.0
+1641787,Tosan Evbuomwan,1610612752,New York Knicks,F,6-8,217,24.0
+1629011,Mitchell Robinson,1610612752,New York Knicks,C-F,7-0,240,27.0
+1628969,Mikal Bridges,1610612752,New York Knicks,G-F,6-6,209,29.0
+1627824,Guerschon Yabusele,1610612752,New York Knicks,F,6-7,265,29.0
+1626157,Karl-Anthony Towns,1610612752,New York Knicks,C-F,7-0,248,29.0
+1629013,Landry Shamet,1610612752,New York Knicks,G,6-5,190,28.0
+1641998,Trey Jemison III,1610612752,New York Knicks,C,6-10,270,25.0
+1642885,Mohamed Diawara,1610612752,New York Knicks,F,6-9,225,20.0
+1630574,Ariel Hukporti,1610612752,New York Knicks,C,7-0,246,23.0
+1641710,Anthony Black,1610612753,Orlando Magic,G,6-7,200,21.0
+1628371,Jonathan Isaac,1610612753,Orlando Magic,F,6-10,230,28.0
+1626145,Tyus Jones,1610612753,Orlando Magic,G,6-0,196,29.0
+1630217,Desmond Bane,1610612753,Orlando Magic,G,6-6,215,27.0
+1630591,Jalen Suggs,1610612753,Orlando Magic,G,6-5,205,24.0
+1631094,Paolo Banchero,1610612753,Orlando Magic,F,6-10,250,22.0
+1631115,Orlando Robinson,1610612753,Orlando Magic,C,6-10,235,25.0
+1631288,Jamal Cain,1610612753,Orlando Magic,F,6-7,191,26.0
+1642859,Jase Richardson,1610612753,Orlando Magic,G,6-1,180,20.0
+1641724,Jett Howard,1610612753,Orlando Magic,G,6-8,215,22.0
+1630658,Colin Castleton,1610612753,Orlando Magic,C,6-10,250,25.0
+1629021,Moritz Wagner,1610612753,Orlando Magic,F-C,6-11,245,28.0
+1630532,Franz Wagner,1610612753,Orlando Magic,F,6-10,220,24.0
+1641783,Tristan da Silva,1610612753,Orlando Magic,F,6-8,217,24.0
+1628976,Wendell Carter Jr.,1610612753,Orlando Magic,C-F,6-10,270,26.0
+1629048,Goga Bitadze,1610612753,Orlando Magic,C-F,6-11,250,26.0
+1642869,Noah Penda,1610612753,Orlando Magic,G-F,6-7,215,20.0
+1630169,Tyrese Haliburton,1610612754,Indiana Pacers,G,6-5,185,25.0
+1631097,Bennedict Mathurin,1610612754,Indiana Pacers,G-F,6-5,210,23.0
+1630167,Obi Toppin,1610612754,Indiana Pacers,F,6-9,220,27.0
+1629614,Andrew Nembhard,1610612754,Indiana Pacers,G-F,6-4,191,25.0
+1628420,Monté Morris,1610612754,Indiana Pacers,G,6-2,183,30.0
+1643007,Taelon Peter,1610612754,Indiana Pacers,G,6-3,185,23.0
+1641716,Jarace Walker,1610612754,Indiana Pacers,F,6-7,235,22.0
+1642880,Kam Jones,1610612754,Indiana Pacers,G,6-4,200,23.0
+204456,T.J. McConnell,1610612754,Indiana Pacers,G,6-1,190,33.0
+1642484,RayJ Dennis,1610612754,Indiana Pacers,G,6-1,180,24.0
+1628998,Cody Martin,1610612754,Indiana Pacers,F,6-6,205,30.0
+1642277,Johnny Furphy,1610612754,Indiana Pacers,G,6-8,200,20.0
+1628396,Tony Bradley,1610612754,Indiana Pacers,C-F,6-10,248,27.0
+1630543,Isaiah Jackson,1610612754,Indiana Pacers,F,6-8,205,23.0
+1630174,Aaron Nesmith,1610612754,Indiana Pacers,G-F,6-5,215,26.0
+1641767,Ben Sheppard,1610612754,Indiana Pacers,G,6-6,190,24.0
+1631245,Quenton Jackson,1610612754,Indiana Pacers,G,6-4,173,27.0
+1630643,Jay Huff,1610612754,Indiana Pacers,C,7-1,240,28.0
+1627783,Pascal Siakam,1610612754,Indiana Pacers,F,6-8,245,31.0
+1630178,Tyrese Maxey,1610612755,Philadelphia 76ers,G,6-2,200,25.0
+203083,Andre Drummond,1610612755,Philadelphia 76ers,C,6-11,279,32.0
+1629656,Quentin Grimes,1610612755,Philadelphia 76ers,G,6-4,210,25.0
+200768,Kyle Lowry,1610612755,Philadelphia 76ers,G,6-0,196,39.0
+202331,Paul George,1610612755,Philadelphia 76ers,F,6-8,220,35.0
+1626162,Kelly Oubre Jr.,1610612755,Philadelphia 76ers,F-G,6-8,203,29.0
+1642348,Justin Edwards,1610612755,Philadelphia 76ers,F,6-7,203,21.0
+1630570,Trendon Watford,1610612755,Philadelphia 76ers,G-F,6-8,237,25.0
+1642272,Jared McCain,1610612755,Philadelphia 76ers,G,6-3,195,21.0
+203954,Joel Embiid,1610612755,Philadelphia 76ers,C-F,7-0,280,31.0
+1641780,Johni Broome,1610612755,Philadelphia 76ers,F,6-10,235,23.0
+201569,Eric Gordon,1610612755,Philadelphia 76ers,G,6-3,215,36.0
+1631230,Dominick Barlow,1610612755,Philadelphia 76ers,F,6-9,215,22.0
+1641737,Adem Bona,1610612755,Philadelphia 76ers,F,6-10,235,22.0
+1631133,Jabari Walker,1610612755,Philadelphia 76ers,F,6-7,237,23.0
+1642282,Hunter Sallis,1610612755,Philadelphia 76ers,G,6-4,185,22.0
+1642845,VJ Edgecombe,1610612755,Philadelphia 76ers,G,6-4,180,20.0
+1626220,Royce O'Neale,1610612756,Phoenix Suns,F,6-6,226,32.0
+1642346,Ryan Dunn,1610612756,Phoenix Suns,F,6-7,216,22.0
+1626164,Devin Booker,1610612756,Phoenix Suns,G,6-5,206,29.0
+1630208,Nick Richards,1610612756,Phoenix Suns,C,6-11,245,27.0
+1628415,Dillon Brooks,1610612756,Phoenix Suns,G-F,6-7,225,29.0
+1630224,Jalen Green,1610612756,Phoenix Suns,G,6-4,186,23.0
+1628960,Grayson Allen,1610612756,Phoenix Suns,G,6-3,198,30.0
+1642863,Khaman Maluach,1610612756,Phoenix Suns,C,7-1,250,19.0
+1642345,Oso Ighodaro,1610612756,Phoenix Suns,F,6-11,235,23.0
+1631221,Collin Gillespie,1610612756,Phoenix Suns,G,6-1,195,26.0
+1642886,Koby Brea,1610612756,Phoenix Suns,G,6-5,215,23.0
+1631109,Mark Williams,1610612756,Phoenix Suns,C,7-1,240,23.0
+1630587,Isaiah Livers,1610612756,Phoenix Suns,F,6-6,232,27.0
+1642853,Rasheer Fleming,1610612756,Phoenix Suns,F,6-9,240,21.0
+1628502,Nigel Hayes-Davis,1610612756,Phoenix Suns,F,6-7,254,30.0
+1643047,CJ Huntley,1610612756,Phoenix Suns,F,6-9,190,23.0
+1630692,Jordan Goodwin,1610612756,Phoenix Suns,G,6-3,215,27.0
+203081,Damian Lillard,1610612757,Portland Trail Blazers,G,6-2,200,35.0
+1630703,Scoot Henderson,1610612757,Portland Trail Blazers,G,6-3,207,21.0
+1631104,Blake Wesley,1610612757,Portland Trail Blazers,G,6-4,190,22.0
+1631126,Caleb Love,1610612757,Portland Trail Blazers,G,6-3,212,24.0
+1629680,Matisse Thybulle,1610612757,Portland Trail Blazers,G-F,6-5,202,28.0
+201950,Jrue Holiday,1610612757,Portland Trail Blazers,G,6-4,220,35.0
+1630166,Deni Avdija,1610612757,Portland Trail Blazers,F,6-8,228,24.0
+203924,Jerami Grant,1610612757,Portland Trail Blazers,F,6-7,213,31.0
+1642905,Yang Hansen,1610612757,Portland Trail Blazers,C,7-1,270,20.0
+1631101,Shaedon Sharpe,1610612757,Portland Trail Blazers,G,6-5,210,22.0
+1631451,Javonte Cooke,1610612757,Portland Trail Blazers,G,6-6,185,26.0
+1641712,Rayan Rupert,1610612757,Portland Trail Blazers,G-F,6-7,205,21.0
+1642270,Donovan Clingan,1610612757,Portland Trail Blazers,C,7-2,280,21.0
+1631200,Kris Murray,1610612757,Portland Trail Blazers,F,6-8,218,25.0
+1641871,Duop Reath,1610612757,Portland Trail Blazers,C,6-9,245,29.0
+1641739,Toumani Camara,1610612757,Portland Trail Blazers,F,6-7,230,25.0
+1629057,Robert Williams III,1610612757,Portland Trail Blazers,C-F,6-9,249,28.0
+1631321,Sidy Cissoko,1610612757,Portland Trail Blazers,G,6-6,220,21.0
+1641815,Isaiah Stevens,1610612758,Sacramento Kings,G,5-11,185,25.0
+1642928,Dylan Cardwell,1610612758,Sacramento Kings,C,6-10,255,23.0
+1628370,Malik Monk,1610612758,Sacramento Kings,G,6-3,200,27.0
+1642363,Nique Clifford,1610612758,Sacramento Kings,G,6-5,175,23.0
+1630173,Precious Achiuwa,1610612758,Sacramento Kings,F,6-8,243,26.0
+203926,Doug McDermott,1610612758,Sacramento Kings,F,6-7,225,33.0
+203897,Zach LaVine,1610612758,Sacramento Kings,G,6-5,200,30.0
+203967,Dario Šarić,1610612758,Sacramento Kings,F-C,6-10,225,31.0
+201942,DeMar DeRozan,1610612758,Sacramento Kings,G-F,6-6,220,36.0
+1627734,Domantas Sabonis,1610612758,Sacramento Kings,F-C,6-10,240,29.0
+1631099,Keegan Murray,1610612758,Sacramento Kings,F,6-8,225,25.0
+203471,Dennis Schröder,1610612758,Sacramento Kings,G,6-1,175,32.0
+201566,Russell Westbrook,1610612758,Sacramento Kings,G,6-4,200,36.0
+1629234,Drew Eubanks,1610612758,Sacramento Kings,F-C,6-10,245,28.0
+1642269,Devin Carter,1610612758,Sacramento Kings,G,6-2,195,23.0
+1631165,Keon Ellis,1610612758,Sacramento Kings,G,6-4,175,25.0
+1631342,Daeqwon Plowden,1610612758,Sacramento Kings,G-F,6-4,216,27.0
+1642875,Maxime Raynaud,1610612758,Sacramento Kings,C,7-1,250,22.0
+1629162,Jordan McLaughlin,1610612759,San Antonio Spurs,G,5-11,185,29.0
+1641705,Victor Wembanyama,1610612759,San Antonio Spurs,F-C,7-4,235,21.0
+1642844,Dylan Harper,1610612759,San Antonio Spurs,G,6-5,215,19.0
+1629640,Keldon Johnson,1610612759,San Antonio Spurs,F-G,6-6,220,26.0
+1628368,De'Aaron Fox,1610612759,San Antonio Spurs,G,6-3,185,27.0
+1642264,Stephon Castle,1610612759,San Antonio Spurs,G,6-6,215,21.0
+1628436,Luke Kornet,1610612759,San Antonio Spurs,C-F,7-1,250,30.0
+203482,Kelly Olynyk,1610612759,San Antonio Spurs,F-C,7-0,240,34.0
+1631110,Jeremy Sochan,1610612759,San Antonio Spurs,F,6-8,230,22.0
+1642868,Carter Bryant,1610612759,San Antonio Spurs,F,6-6,220,19.0
+202687,Bismack Biyombo,1610612759,San Antonio Spurs,C,6-8,255,33.0
+1630170,Devin Vassell,1610612759,San Antonio Spurs,G-F,6-5,200,25.0
+1642357,David Jones Garcia,1610612759,San Antonio Spurs,F,6-4,210,23.0
+1642434,Riley Minix,1610612759,San Antonio Spurs,F,6-7,230,25.0
+1630577,Julian Champagnie,1610612759,San Antonio Spurs,F,6-7,217,24.0
+203084,Harrison Barnes,1610612759,San Antonio Spurs,F,6-7,225,33.0
+1630322,Lindy Waters III,1610612759,San Antonio Spurs,F,6-5,210,28.0
+1631127,Harrison Ingram,1610612759,San Antonio Spurs,F,6-5,230,22.0
+1628983,Shai Gilgeous-Alexander,1610612760,Oklahoma City Thunder,G,6-6,195,27.0
+1642959,Chris Youngblood,1610612760,Oklahoma City Thunder,G,6-4,,23.0
+1629652,Luguentz Dort,1610612760,Oklahoma City Thunder,G,6-4,220,26.0
+1631119,Jaylin Williams,1610612760,Oklahoma City Thunder,F,6-9,240,23.0
+1631096,Chet Holmgren,1610612760,Oklahoma City Thunder,C-F,7-1,208,23.0
+1631114,Jalen Williams,1610612760,Oklahoma City Thunder,G-F,6-5,211,24.0
+1627936,Alex Caruso,1610612760,Oklahoma City Thunder,G,6-5,186,31.0
+1630198,Isaiah Joe,1610612760,Oklahoma City Thunder,G,6-4,165,26.0
+1642850,Thomas Sorber,1610612760,Oklahoma City Thunder,C,6-9,250,19.0
+1631172,Ousmane Dieng,1610612760,Oklahoma City Thunder,F,6-9,185,22.0
+1642382,Branden Carlson,1610612760,Oklahoma City Thunder,C,7-0,220,26.0
+1630598,Aaron Wiggins,1610612760,Oklahoma City Thunder,G,6-5,190,26.0
+1641717,Cason Wallace,1610612760,Oklahoma City Thunder,G,6-3,195,22.0
+1642964,Brooks Barnhizer,1610612760,Oklahoma City Thunder,G,6-5,230,23.0
+1642349,Ajay Mitchell,1610612760,Oklahoma City Thunder,G,6-4,190,23.0
+1629026,Kenrich Williams,1610612760,Oklahoma City Thunder,G-F,6-7,210,30.0
+1642260,Nikola Topić,1610612760,Oklahoma City Thunder,G,6-6,200,20.0
+1628392,Isaiah Hartenstein,1610612760,Oklahoma City Thunder,C-F,7-0,250,27.0
+1642935,Chucky Hepburn,1610612761,Toronto Raptors,G,6-0,190,22.0
+1630639,A.J. Lawson,1610612761,Toronto Raptors,G,6-6,179,25.0
+1641711,Gradey Dick,1610612761,Toronto Raptors,G-F,6-7,200,21.0
+1642367,Jonathan Mogbo,1610612761,Toronto Raptors,F,6-9,225,24.0
+1627742,Brandon Ingram,1610612761,Toronto Raptors,F,6-8,190,28.0
+1630567,Scottie Barnes,1610612761,Toronto Raptors,F-G,6-8,237,24.0
+1630193,Immanuel Quickley,1610612761,Toronto Raptors,G,6-2,190,26.0
+1629628,RJ Barrett,1610612761,Toronto Raptors,F-G,6-6,214,25.0
+1642867,Collin Murray-Boyles,1610612761,Toronto Raptors,F,6-7,245,20.0
+1642266,Ja'Kobe Walter,1610612761,Toronto Raptors,G,6-4,180,21.0
+202066,Garrett Temple,1610612761,Toronto Raptors,G-F,6-5,195,39.0
+1627751,Jakob Poeltl,1610612761,Toronto Raptors,C,7-0,253,30.0
+1642347,Jamal Shead,1610612761,Toronto Raptors,G,6-1,200,23.0
+1630534,Ochai Agbaji,1610612761,Toronto Raptors,G,6-5,215,25.0
+1630572,Sandro Mamukelashvili,1610612761,Toronto Raptors,F-C,6-9,240,26.0
+1642918,Alijah Martin,1610612761,Toronto Raptors,G,6-2,210,23.0
+1642419,Jamison Battle,1610612761,Toronto Raptors,F,6-7,220,24.0
+1641707,Taylor Hendricks,1610612762,Utah Jazz,F,6-9,215,21.0
+203937,Kyle Anderson,1610612762,Utah Jazz,F-G,6-8,230,32.0
+1641718,Keyonte George,1610612762,Utah Jazz,G,6-4,185,22.0
+1642262,Cody Williams,1610612762,Utah Jazz,F,6-8,190,20.0
+1642268,Isaiah Collier,1610612762,Utah Jazz,G,6-4,210,21.0
+1629004,Svi Mykhailiuk,1610612762,Utah Jazz,G-F,6-7,205,28.0
+1642383,Walter Clayton Jr.,1610612762,Utah Jazz,G,6-4,195,22.0
+1641989,Elijah Harkless,1610612762,Utah Jazz,G,6-3,195,25.0
+1642910,John Tonje,1610612762,Utah Jazz,G,6-4,218,24.0
+1642846,Ace Bailey,1610612762,Utah Jazz,F,6-9,200,19.0
+1642271,Kyle Filipowski,1610612762,Utah Jazz,C,6-11,250,22.0
+1628374,Lauri Markkanen,1610612762,Utah Jazz,F-C,7-1,240,28.0
+1631117,Walker Kessler,1610612762,Utah Jazz,C,7-2,245,24.0
+1641729,Brice Sensabaugh,1610612762,Utah Jazz,F,6-6,235,22.0
+203994,Jusuf Nurkić,1610612762,Utah Jazz,C,6-11,290,31.0
+1627777,Georges Niang,1610612762,Utah Jazz,F,6-6,230,32.0
+1631131,Oscar Tshiebwe,1610612762,Utah Jazz,F-C,6-8,255,25.0
+201567,Kevin Love,1610612762,Utah Jazz,F-C,6-10,251,37.0
+1642377,Jaylen Wells,1610612763,Memphis Grizzlies,F,6-7,,22.0
+1630590,Scotty Pippen Jr.,1610612763,Memphis Grizzlies,G,6-2,170,25.0
+1629660,Ty Jerome,1610612763,Memphis Grizzlies,G-F,6-5,195,28.0
+203484,Kentavious Caldwell-Pope,1610612763,Memphis Grizzlies,G,6-5,204,32.0
+1631246,Vince Williams Jr.,1610612763,Memphis Grizzlies,G,6-4,205,25.0
+1630583,Santi Aldama,1610612763,Memphis Grizzlies,F-C,7-0,215,24.0
+1628991,Jaren Jackson Jr.,1610612763,Memphis Grizzlies,F-C,6-10,242,26.0
+1642914,Javon Small,1610612763,Memphis Grizzlies,G,6-1,190,22.0
+1629630,Ja Morant,1610612763,Memphis Grizzlies,G,6-2,174,26.0
+1641744,Zach Edey,1610612763,Memphis Grizzlies,C,7-3,305,23.0
+1629634,Brandon Clarke,1610612763,Memphis Grizzlies,F,6-8,215,29.0
+1641790,PJ Hall,1610612763,Memphis Grizzlies,C,6-8,245,23.0
+1641765,Olivier-Maxence Prosper,1610612763,Memphis Grizzlies,F,6-7,230,23.0
+1642907,Cedric Coward,1610612763,Memphis Grizzlies,G,6-5,206,22.0
+1642285,Cam Spencer,1610612763,Memphis Grizzlies,G,6-3,205,25.0
+1629111,Jock Landale,1610612763,Memphis Grizzlies,C,6-11,255,30.0
+1641713,GG Jackson,1610612763,Memphis Grizzlies,F,6-9,210,20.0
+1629723,John Konchar,1610612763,Memphis Grizzlies,G,6-5,210,29.0
+1641731,Bilal Coulibaly,1610612764,Washington Wizards,G,6-7,195,21.0
+1641774,Tristan Vukcevic,1610612764,Washington Wizards,F,7-0,220,22.0
+1641715,Cam Whitmore,1610612764,Washington Wizards,F,6-6,230,21.0
+203468,CJ McCollum,1610612764,Washington Wizards,G,6-3,190,34.0
+1642358,AJ Johnson,1610612764,Washington Wizards,G,6-5,160,20.0
+1642364,Jamir Watkins,1610612764,Washington Wizards,F,6-6,210,24.0
+1642267,Bub Carrington,1610612764,Washington Wizards,G,6-4,190,20.0
+1631103,Malaki Branham,1610612764,Washington Wizards,F,6-4,180,22.0
+1630551,Justin Champagnie,1610612764,Washington Wizards,G-F,6-6,206,24.0
+1642848,Tre Johnson,1610612764,Washington Wizards,G,6-5,190,19.0
+1630536,Sharife Cooper,1610612764,Washington Wizards,G,6-0,176,24.0
+1630264,Anthony Gill,1610612764,Washington Wizards,F,6-7,230,33.0
+1642273,Kyshawn George,1610612764,Washington Wizards,F,6-8,200,21.0
+1642259,Alex Sarr,1610612764,Washington Wizards,C,7-0,205,20.0
+203114,Khris Middleton,1610612764,Washington Wizards,F,6-7,222,34.0
+1630557,Corey Kispert,1610612764,Washington Wizards,F,6-6,224,26.0
+1642860,Will Riley,1610612764,Washington Wizards,F,6-9,180,19.0
+1628963,Marvin Bagley III,1610612764,Washington Wizards,F,6-10,235,26.0
+1631105,Jalen Duren,1610612765,Detroit Pistons,C,6-10,250,21.0
+1630595,Cade Cunningham,1610612765,Detroit Pistons,G,6-6,220,24.0
+1642403,Isaac Jones,1610612765,Detroit Pistons,F,6-8,245,25.0
+1641842,Ronald Holland II,1610612765,Detroit Pistons,F,6-8,206,20.0
+1630194,Paul Reed,1610612765,Detroit Pistons,F,6-9,210,26.0
+1627747,Caris LeVert,1610612765,Detroit Pistons,G,6-7,205,31.0
+1631111,Wendell Moore Jr.,1610612765,Detroit Pistons,G,6-5,215,24.0
+1641709,Ausar Thompson,1610612765,Detroit Pistons,G-F,6-7,205,22.0
+202699,Tobias Harris,1610612765,Detroit Pistons,F,6-8,226,33.0
+1642404,Chaz Lanier,1610612765,Detroit Pistons,G,6-3,206,23.0
+1631093,Jaden Ivey,1610612765,Detroit Pistons,G,6-3,195,23.0
+1642450,Daniss Jenkins,1610612765,Detroit Pistons,G,6-4,165,24.0
+1631204,Marcus Sasser,1610612765,Detroit Pistons,G,6-1,195,25.0
+1630191,Isaiah Stewart,1610612765,Detroit Pistons,F-C,6-8,250,24.0
+1629750,Javonte Green,1610612765,Detroit Pistons,G,6-5,205,32.0
+1641752,Bobi Klintman,1610612765,Detroit Pistons,F,6-9,225,22.0
+1642449,Tolu Smith,1610612765,Detroit Pistons,F,6-11,,25.0
+1629130,Duncan Robinson,1610612765,Detroit Pistons,F,6-7,215,31.0
+1628970,Miles Bridges,1610612766,Charlotte Hornets,F,6-7,225,27.0
+1630163,LaMelo Ball,1610612766,Charlotte Hornets,G,6-7,180,24.0
+1629684,Grant Williams,1610612766,Charlotte Hornets,F,6-7,236,26.0
+1642883,Sion James,1610612766,Charlotte Hornets,G,6-5,220,22.0
+1642851,Kon Knueppel,1610612766,Charlotte Hornets,G-F,6-6,215,20.0
+1629012,Collin Sexton,1610612766,Charlotte Hornets,G,6-3,190,26.0
+1641809,Drew Peterson,1610612766,Charlotte Hornets,F,6-8,205,26.0
+1630182,Josh Green,1610612766,Charlotte Hornets,G,6-6,200,24.0
+1641750,Ryan Kalkbrenner,1610612766,Charlotte Hornets,C,7-1,256,23.0
+1641810,Antonio Reeves,1610612766,Charlotte Hornets,G,6-5,205,24.0
+1631217,Moussa Diabaté,1610612766,Charlotte Hornets,F,6-10,210,23.0
+1626192,Pat Connaughton,1610612766,Charlotte Hornets,G,6-5,209,32.0
+203486,Mason Plumlee,1610612766,Charlotte Hornets,F-C,7-0,254,35.0
+1630544,Tre Mann,1610612766,Charlotte Hornets,G,6-4,178,24.0
+1641706,Brandon Miller,1610612766,Charlotte Hornets,F,6-7,200,22.0
+1642354,KJ Simpson,1610612766,Charlotte Hornets,G,6-2,189,23.0
+1642275,Tidjane Salaün,1610612766,Charlotte Hornets,F,6-10,207,20.0
+1642862,Liam McNeeley,1610612766,Charlotte Hornets,F,6-7,210,20.0
